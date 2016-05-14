@@ -1,2 +1,3 @@
 # data-science
-for data science JHU
+
+This is the repository for Data Science JHU on Coursera.
